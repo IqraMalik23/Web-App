@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703676644394",
+    "project_id": "paani-41194",
+    "storage_bucket": "paani-41194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703676644394:android:f864aafe260c18376ed753",
+        "android_client_info": {
+          "package_name": "com.leondev1234.paani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVkGJIGfBXXXKtQtMVWGLXLIExLuVzwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

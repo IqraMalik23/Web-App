@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "HydroChat",
+    "slug": "paani",
+    "icon": "./assets/icon.png",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/160eba0f-1d2a-4902-ae4e-b3875a72dab2"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.leondev1234.paani"
+    },
+    "ios": {},
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"],
+    "extra": {
+      "eas": {
+        "projectId": "160eba0f-1d2a-4902-ae4e-b3875a72dab2"
+      }
+    }
+  }
+}
